@@ -15,6 +15,10 @@
 - Obtendo o endereço da máquina: ifconfig
 - URL para clone: google
 
+*RESULTADO*
 
 
+![image](https://github.com/user-attachments/assets/8759f180-2cce-4595-bce4-ecf9fc86dff6)
 
+
+*OBS*: Tive que mudar para o template do google pois o facebook atualizou e o método feito pelo professor do curso, não funciona hoje atualmente.
